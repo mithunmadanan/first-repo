@@ -6,3 +6,5 @@ mithun
 england
 ## gender
 male
+## hobbies
+shuttle
