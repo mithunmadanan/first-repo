@@ -1,8 +1,8 @@
 # first-repo
 learning git
-##name
+#name
 mithun
-##location
+#location
 england
-##gender
+#gender
 male
